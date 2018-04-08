@@ -14,7 +14,7 @@
 		3B41750E207A4A7400C2838C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B41750D207A4A7400C2838C /* Assets.xcassets */; };
 		3B417511207A4A7400C2838C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3B41750F207A4A7400C2838C /* LaunchScreen.storyboard */; };
 		3B41751D207A4D1600C2838C /* Tiles.sks in Resources */ = {isa = PBXBuildFile; fileRef = 3B41751C207A4D1600C2838C /* Tiles.sks */; };
-		3B6CCAD8207A573C007C2DC8 /* female_walk.atlas in Resources */ = {isa = PBXBuildFile; fileRef = 3B6CCAD7207A573C007C2DC8 /* female_walk.atlas */; };
+		3B6CCADA207A8287007C2DC8 /* female_walk.atlas in Resources */ = {isa = PBXBuildFile; fileRef = 3B6CCAD9207A8287007C2DC8 /* female_walk.atlas */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +27,7 @@
 		3B417510207A4A7400C2838C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3B417512207A4A7400C2838C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3B41751C207A4D1600C2838C /* Tiles.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Tiles.sks; sourceTree = "<group>"; };
-		3B6CCAD7207A573C007C2DC8 /* female_walk.atlas */ = {isa = PBXFileReference; lastKnownFileType = folder.skatlas; name = female_walk.atlas; path = ../../../../Downloads/kenney_platformercharacters/PNG/Female/Poses/female_walk.atlas; sourceTree = "<group>"; };
+		3B6CCAD9207A8287007C2DC8 /* female_walk.atlas */ = {isa = PBXFileReference; lastKnownFileType = folder.skatlas; path = female_walk.atlas; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,7 +76,7 @@
 			children = (
 				3B41751C207A4D1600C2838C /* Tiles.sks */,
 				3B41750D207A4A7400C2838C /* Assets.xcassets */,
-				3B6CCAD7207A573C007C2DC8 /* female_walk.atlas */,
+				3B6CCAD9207A8287007C2DC8 /* female_walk.atlas */,
 			);
 			path = "Supporting files";
 			sourceTree = "<group>";
@@ -143,7 +143,7 @@
 				3B41750E207A4A7400C2838C /* Assets.xcassets in Resources */,
 				3B41751D207A4D1600C2838C /* Tiles.sks in Resources */,
 				3B417511207A4A7400C2838C /* LaunchScreen.storyboard in Resources */,
-				3B6CCAD8207A573C007C2DC8 /* female_walk.atlas in Resources */,
+				3B6CCADA207A8287007C2DC8 /* female_walk.atlas in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
